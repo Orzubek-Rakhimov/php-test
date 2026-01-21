@@ -1,2 +1,2 @@
 <?php
-echo "Salom Dunyo!";
+echo "Salom Dunyo!!!";
